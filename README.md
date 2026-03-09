@@ -28,33 +28,6 @@ While analyzing a log file, the program displays a live dashboard showing:
 - Most active IP addresses
 - Suspicious login activity
 
-┌───────────────────────────────┐
-│        Live Log Monitor       │
-├───────────────────────────────┤
-│ INFO logs        │ 14221      │
-│ ERROR logs       │ 32         │
-│ WARNING logs     │ 188        │
-│ Top IP 10.0.0.5  │ 542        │
-│ Suspicious       │ 45.33.12.9 │
-└───────────────────────────────┘
-
----
-
-📂 Project Structure
-
-pro-log-analyzer
-│
-├── analyzer.py
-├── parser.py
-├── detector.py
-├── parallel_parser.py
-├── dashboard.py
-├── utils.py
-├── exporter.py
-├── generate_demo_logs.py
-├── requirements.txt
-└── README.md
-
 ---
 
 ⚙️ Installation
