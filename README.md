@@ -1,4 +1,4 @@
-Pro Log Analyzer
+##Pro Log Analyzer
 
 A high-performance command-line tool for analyzing large server log files in real time.
 
@@ -40,7 +40,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/pro-log-analyzer.git
+git clone https://github.com/MrV3nomous/pro-log-analyzer.git
 cd pro-log-analyzer
 
 Install dependencies:
