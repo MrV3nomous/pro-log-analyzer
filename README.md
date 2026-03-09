@@ -119,8 +119,11 @@ These files will be saved in the project directory.
 
 The analyzer expects logs similar to:
 
+
 2023-11-15 10:23:11 [INFO] 192.168.1.12 /login User login successful
+
 2023-11-15 10:23:12 [ERROR] 45.33.21.9 /login Failed password for invalid user
+
 2023-11-15 10:23:14 [WARNING] 10.0.0.5 /dashboard Disk usage high
 
 
